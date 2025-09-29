@@ -16,7 +16,7 @@ Latest Version Android Studio
 
 ## PROGRAM:
 ```
-Program to print the text “Implicitintent”.
+Program to print the text “Explicitintent”.
 Developed by: Prasanna R
 Registeration Number :212222040120
 ```
@@ -75,7 +75,6 @@ Registeration Number :212222040120
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.622" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-
 ```
 ## Activity_Second.xml
 ```
@@ -121,8 +120,6 @@ Registeration Number :212222040120
         app:layout_constraintVertical_bias="0.45" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
-
 ## MainActivity.java
 ```
 package com.example.ex_6final;
@@ -170,7 +167,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ## SecondActivity.Java
 ```
 package com.example.ex_6final;
@@ -195,7 +191,6 @@ public class SecondActivity extends AppCompatActivity {
     }
 }
 ```
-
 ## AndroidManifest.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -225,17 +220,9 @@ public class SecondActivity extends AppCompatActivity {
 
 </manifest>
 ```
-
-
 ## OUTPUT
-
-![Screenshot 2024-09-30 143629](https://github.com/user-attachments/assets/a6f54290-6f76-4cbc-a1b3-abee10f3d4d4)
-
-
-![Screenshot 2024-09-30 143658](https://github.com/user-attachments/assets/e572f905-099a-4b75-b9ee-4855812b7cba)
-
-
-
+![image](https://github.com/user-attachments/assets/ecd675fd-6a68-40fb-ab3c-08bb78fa6d5b)
+![image](https://github.com/user-attachments/assets/5addb427-344f-4375-8adc-85732e8bed24)
 
 
 
